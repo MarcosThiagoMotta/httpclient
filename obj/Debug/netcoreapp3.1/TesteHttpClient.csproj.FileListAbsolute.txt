@@ -1,0 +1,15 @@
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.csprojAssemblyReference.cache
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.AssemblyInfoInputs.cache
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.AssemblyInfo.cs
+C:\Users\motta\source\repos\HttpClient\bin\Debug\netcoreapp3.1\TesteHttpClient.exe
+C:\Users\motta\source\repos\HttpClient\bin\Debug\netcoreapp3.1\TesteHttpClient.deps.json
+C:\Users\motta\source\repos\HttpClient\bin\Debug\netcoreapp3.1\TesteHttpClient.runtimeconfig.json
+C:\Users\motta\source\repos\HttpClient\bin\Debug\netcoreapp3.1\TesteHttpClient.runtimeconfig.dev.json
+C:\Users\motta\source\repos\HttpClient\bin\Debug\netcoreapp3.1\TesteHttpClient.dll
+C:\Users\motta\source\repos\HttpClient\bin\Debug\netcoreapp3.1\TesteHttpClient.pdb
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.dll
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.pdb
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.genruntimeconfig.cache
+C:\Users\motta\source\repos\HttpClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\motta\source\repos\HttpClient\obj\Debug\netcoreapp3.1\TesteHttpClient.csproj.CopyComplete

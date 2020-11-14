@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "630+Dm1UH+kyqm+l70E5bfoePCSccebY+a6B/JRWZSTfBDY8tKwrBiUQaNKSIMT7XYnYxcPrP/exKX/fg6FX+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\motta\\source\\repos\\HttpClient\\TesteHttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\motta\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
